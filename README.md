@@ -1,16 +1,15 @@
-# todo_list2
+# Todo List
 
-A new Flutter project.
+Aplicativo de lista feito através do sqlite, criado para disciplina de Programação Mobile com Flutter.
 
-## Getting Started
+## Alguns desafios resolvidos do projeto:
 
-This project is a starting point for a Flutter application.
+:heavy_check_mark: Na lista de tarefas, adicionar divisões entre as linhas;
 
-A few resources to get you started if this is your first Flutter project:
+:heavy_check_mark: Adicionar validações no cadastro de uma atividade;
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+:heavy_check_mark: Campo descrição precisar aceitar múltiplas linhas;
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+😐 Criar um campo para nível de prioridades que aceita valores entre 1 (baixa prioridade) e 5 (alta prioridade). Representar isso no card da forma como achar mais interessante.
+
+😐 Adicionar um PercentIndicator circular na barra de navegação para indicar a porcentagem de tarefas concluídas
