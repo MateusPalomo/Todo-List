@@ -2,6 +2,7 @@
 
 Aplicativo de lista feito através do sqlite, criado para disciplina de Programação Mobile com Flutter.
 
+
 ## Alguns desafios resolvidos do projeto:
 
 :heavy_check_mark: Na lista de tarefas, adicionar divisões entre as linhas;
