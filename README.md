@@ -4,6 +4,7 @@ Aplicativo de lista feito através do sqlite, criado para disciplina de Programa
 
 <p align="center">
     <img src="https://github.com/MateusPalomo/Todo-List/blob/master/images/screen1.PNG" height="400"/>
+    <img src="https://github.com/MateusPalomo/Todo-List/blob/master/images/screen2.PNG" height="400"/>
 
 </p>
 
