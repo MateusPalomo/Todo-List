@@ -2,6 +2,11 @@
 
 Aplicativo de lista feito através do sqlite, criado para disciplina de Programação Mobile com Flutter.
 
+<p align="center">
+    <img src="https://github.com/MateusPalomo/Todo-List/blob/master/images/screen1.PNG" height="400"/>
+
+</p>
+
 
 ## Alguns desafios resolvidos do projeto:
 
